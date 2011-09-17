@@ -3,5 +3,6 @@ class ApplicationController < ActionController::Base
 
 
 application_helper
+after application_helper text
 
 end
